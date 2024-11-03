@@ -3,10 +3,12 @@
 
 **Testing**
 
+```javascript
     let puppy = 10
     if (puppy == puppy) {
         puppy
     }
+```
 
 **Some readings**
 
